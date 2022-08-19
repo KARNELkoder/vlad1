@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "17.08.2003"; // Дата рождения
-var fullname = "Кичко Дарина Леонідівна" // ФИО
+var birthdate = "15.07.2004"; // Дата рождения
+var fullname = "Яценко Дмитро Олександрович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
