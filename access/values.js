@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "15.07.2004"; // Дата рождения
-var fullname = "Яценко Дмитро Олександрович" // ФИО
+var birthdate = "29.07.2003"; // Дата рождения
+var fullname = "Галабурда Владислав Олександрович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
